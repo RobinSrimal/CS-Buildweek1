@@ -10,6 +10,4 @@ For further reading on this please refer to this [link](https://www.kdnuggets.co
 
 2. DBSCAN in Python 
 
-
-3. DBSCAN in C
-
+The implemantion of this algorithm uses Python and the K-D-Tree from sklearn.
