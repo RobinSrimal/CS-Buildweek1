@@ -8,6 +8,6 @@ The implementation of this Algorithm only uses Numpy and Python.
   For further reading on this please refer to this [link](https://www.kdnuggets.com/2017/03/naive-sharding-centroid-initialization-method.html).
 
 
-# DBSCAN in Python 
+# DBSCAN
 
  The implemantion of this algorithm uses Python and the K-D-Tree from sklearn.
